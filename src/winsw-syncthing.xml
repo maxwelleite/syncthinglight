@@ -1,0 +1,10 @@
+<service>
+<id>Syncthing</id>
+<name>Syncthing</name>
+<description>Syncthing service</description>
+<executable>%BASE%\syncthing.exe</executable>
+<logmode>none</logmode>
+<startargument>-no-console</startargument>
+<startargument>-no-browser</startargument>
+<startargument>-home="\Syncthing\config"</startargument>
+</service>
