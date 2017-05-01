@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Syncthing Light is a simple Windows package installer (created in [Inno Setup](http://www.jrsoftware.org/isinfo.php)) for install and runs Syncthing as Windows Service (without any tray utility like [syncthing-tray](https://github.com/alex2108/syncthing-tray), [QSyncthingTray](https://github.com/sieren/QSyncthingTray) or others.
+Syncthing Light is a simple Windows package installer (created in [Inno Setup](http://www.jrsoftware.org/isinfo.php)) for install and runs Syncthing as Windows Service (without any tray utility like [SyncTrayzor](https://github.com/canton7/SyncTrayzor), [Syncthing-GTK](https://github.com/syncthing/syncthing-gtk), [syncthing-tray](https://github.com/alex2108/syncthing-tray) and [QSyncthingTray](https://github.com/sieren/QSyncthingTray).
 
 ## Why
 
@@ -31,8 +31,8 @@ This ideia is based on [Syncthing Windows Installer](https://forum.syncthing.net
 * Add the TCP port 22000 Windows firewall exception automatically.
 * Fix the issue "Default Folder" to "C:\Windows\system32\config\systemprofile\Sync" directory. Because Syncthing is installed as a service under the "SYSTEM" account.
 * Check if .NET Framework 2.0 is really installed (requirement for winsw) for work on old Windows XP. **Note:** The .NET Framework 2.0 is [installed since Windows Vista](https://blogs.msdn.microsoft.com/astebner/2007/03/14/mailbag-what-version-of-the-net-framework-is-included-in-what-version-of-the-os/).
-* Execute the update for a new version for Syncthing if necessary after install
-* Automatic download and install the latest Syncthing on installation runtime (not embedded approach)
+* Execute the update for a new version for Syncthing if necessary after install.
+* Automatic download and install the latest Syncthing on runtime installation (not embedded approach).
 
 ## Known issue
 
