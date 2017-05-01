@@ -16,7 +16,7 @@ This ideia is based on [Syncthing Windows Installer](https://forum.syncthing.net
 
 ## What's Included?
 
-* [Syncthing v0.14.27](https://github.com/syncthing) (only latest stable builds)
+* [Syncthing](https://github.com/syncthing) (only latest stable builds)
 * [winsw](https://github.com/kohsuke/winsw) ( Windows Service Wrapper)
 
 ## What does it do?
