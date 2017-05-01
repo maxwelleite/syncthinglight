@@ -1,0 +1,3 @@
+@echo off
+echo Stop Syncthing service...
+net stop Syncthing
