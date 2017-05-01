@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Syncthing Light is a simple Windows package installer (created in [Inno Setup](http://www.jrsoftware.org/isinfo.php)) for install and runs Syncthing as Windows Service (without any tray utility like [SyncTrayzor](https://github.com/canton7/SyncTrayzor), [Syncthing-GTK](https://github.com/syncthing/syncthing-gtk), [syncthing-tray](https://github.com/alex2108/syncthing-tray) and [QSyncthingTray](https://github.com/sieren/QSyncthingTray).
+Syncthing Light is a simple Windows package installer (created in [Inno Setup](http://www.jrsoftware.org/isinfo.php)) for install and runs Syncthing as Windows Service (without any tray utility like [SyncTrayzor](https://github.com/canton7/SyncTrayzor), [Syncthing-GTK](https://github.com/syncthing/syncthing-gtk), [syncthing-tray](https://github.com/alex2108/syncthing-tray) and [QSyncthingTray](https://github.com/sieren/QSyncthingTray)).
 
 ## Why
 
