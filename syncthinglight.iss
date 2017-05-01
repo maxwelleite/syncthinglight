@@ -32,7 +32,6 @@ Source: "src\service\winsw-syncthing-stop.cmd"; DestDir: "{app}\service"
 Source: "src\service\winsw-syncthing-restart.cmd"; DestDir: "{app}\service"
 Source: "src\AUTHORS.txt"; DestDir: "{app}"
 Source: "src\LICENSE.txt"; DestDir: "{app}"
-Source: "src\README.txt";  DestDir: "{app}"
 
 [Icons]
 Name: "{group}\Syncthing Light WebUI"; Filename: "{app}\syncthing.exe"; Parameters: """-browser-only"""; WorkingDir: "{app}"; IconFilename: "{app}\syncthing.ico"
