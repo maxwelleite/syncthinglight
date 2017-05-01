@@ -6,7 +6,7 @@
 [Setup]
 AppId=SyncthingLight
 AppName=Syncthing Light
-AppVersion=0.14.27
+AppVersion=1.0
 DefaultDirName={sd}\Syncthing
 DefaultGroupName=Syncthing Light     
 UninstallDisplayIcon={app}\syncthing.ico
