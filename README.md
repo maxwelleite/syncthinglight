@@ -1,6 +1,7 @@
-# Syncthing Light
+Syncthing Light
+==============
 
-## Introduction
+[![GPLv3 license](http://img.shields.io/badge/license-GPLv3-brightgreen.svg)](http://www.gnu.org/licenses/gpl-3.0.html)
 
 Syncthing Light is a simple Windows package installer (created in [Inno Setup](http://www.jrsoftware.org/isinfo.php)) for install and runs Syncthing as Windows Service (without any tray utility like [SyncTrayzor](https://github.com/canton7/SyncTrayzor), [Syncthing-GTK](https://github.com/syncthing/syncthing-gtk), [syncthing-tray](https://github.com/alex2108/syncthing-tray) and [QSyncthingTray](https://github.com/sieren/QSyncthingTray)).
 
@@ -39,3 +40,13 @@ After install will be open the Syncthing WebGUI (http://127.0.0.1:8384) on your 
 ## Download
 
 Precompiled binaries for Windows are downloadable in the [Releases](https://github.com/maxwelleite/syncthinglight/releases) section.
+
+## Compiling from source
+
+Check the [INSTALL.md][install] file for instruction on how to compile the
+extension from source.
+
+## Reporting bugs
+
+You can report bugs and ask questions at the extension's [issue tracker][https://github.com/maxwelleite/syncthinglight/issues].
+
