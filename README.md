@@ -43,10 +43,10 @@ Precompiled binaries for Windows are downloadable in the [Releases](https://gith
 
 ## Compiling from source
 
-Check the [INSTALL.md][https://github.com/maxwelleite/syncthinglight/blob/master/INSTALL.md] file for instruction on how to compile the
+Check the [INSTALL.md](https://github.com/maxwelleite/syncthinglight/blob/master/INSTALL.md) file for instruction on how to compile the
 extension from source.
 
 ## Reporting bugs
 
-You can report bugs and ask questions at the extension's [issue tracker][https://github.com/maxwelleite/syncthinglight/issues].
+You can report bugs and ask questions at the extension's [issue tracker](https://github.com/maxwelleite/syncthinglight/issues).
 
